@@ -1,5 +1,5 @@
-## Download
-[⬇️ Download the latest Windows build](https://github.com/<usuario>/<repo>/releases/latest)
+[Download .zip/.exe](https://github.com/<usuario>/<repo>/releases/download/<TAG>/<NOME_DO_ARQUIVO>)
+
 
 # Session-Management-Tool-in-.py-
 
