@@ -1,3 +1,6 @@
+## Download
+[⬇️ Download the latest Windows build](https://github.com/<usuario>/<repo>/releases/latest)
+
 # Session-Management-Tool-in-.py-
 
 A system for managing tire pressures and anti-roll bar (ARB) stiffness distribution, designed for automotive and motorsport applications.
