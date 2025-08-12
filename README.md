@@ -1,4 +1,4 @@
-[Download .zip/.exe](https://github.com/fortefelipeff/Session-Management-Tool-in-.py-/releases/tag/v0.1))
+[Download .exe](https://github.com/fortefelipeff/Session-Management-Tool-in-.py-/releases/tag/v0.1)
 
 
 # Session-Management-Tool-in-.py-
