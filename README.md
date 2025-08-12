@@ -1,5 +1,4 @@
 # Session-Management-Tool-in-.py-
-# Tire Management System
 
 A system for managing tire pressures and anti-roll bar (ARB) stiffness distribution, designed for automotive and motorsport applications.
 
