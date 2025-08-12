@@ -1,4 +1,4 @@
-[Download .zip/.exe]([https://github.com/<usuario>/<repo>/releases/download/<TAG>/<NOME_DO_ARQUIVO>](https://github.com/fortefelipeff/Session-Management-Tool-in-.py-/releases/tag/v0.1))
+[Download .zip/.exe](https://github.com/fortefelipeff/Session-Management-Tool-in-.py-/releases/tag/v0.1))
 
 
 # Session-Management-Tool-in-.py-
