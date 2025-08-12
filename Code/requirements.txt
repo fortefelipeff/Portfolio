@@ -1,0 +1,5 @@
+﻿pandas
+PySide6
+matplotlib
+mplcursors
+openpyxl
